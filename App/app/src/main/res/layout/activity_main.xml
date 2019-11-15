@@ -56,6 +56,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="32dp"
         android:background="@drawable/new_button"
+        android:onClick="getStartedBtnClicked"
         android:text="@string/get_started"
         android:textColor="#FFFFFF"
         android:textSize="18sp"

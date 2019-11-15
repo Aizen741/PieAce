@@ -12,7 +12,7 @@ class LoginActivity : AppCompatActivity() {
     }
 
     fun loginLoginbtnClicked(view: View){
-        
+
     }
 
 
