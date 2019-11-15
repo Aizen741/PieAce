@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='HealthApp'
+rootProject.name='PieAce_HealthApp'

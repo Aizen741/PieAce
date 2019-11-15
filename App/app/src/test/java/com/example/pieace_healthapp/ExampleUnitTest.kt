@@ -1,4 +1,4 @@
-package com.example.healthapp
+package com.example.pieace_healthapp
 
 import org.junit.Test
 
