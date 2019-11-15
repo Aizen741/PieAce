@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PieAce_HealthApp</string>
+    <string name="a_path_towards_a_better_future">A Path towards a Better Future</string>
+    <string name="get_started">GET STARTED</string>
 </resources>
