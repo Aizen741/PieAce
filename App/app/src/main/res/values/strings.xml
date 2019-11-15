@@ -2,4 +2,16 @@
     <string name="app_name">PieAce_HealthApp</string>
     <string name="a_path_towards_a_better_future">A Path towards a Better Future</string>
     <string name="get_started">GET STARTED</string>
+    <string name="to_keep_the_body_in_good_health_is_a_duty_otherwise_we_shall_not_be_able_to_keep_our_mind_strong_and_clear">..To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear..</string>
+    <string name="backgroundimageofwelcome">backgroundImage</string>
+    <string name="logo">logo</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 </resources>
