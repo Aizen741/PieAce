@@ -12,7 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".secondPage"></activity>
+        <activity android:name=".thirdpage"></activity>
+        <activity android:name=".secondPage" />
         <activity android:name=".firstPage" />
         <activity android:name=".LoginActivity" />
         <activity
