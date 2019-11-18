@@ -31,7 +31,7 @@ class LoginActivity : AppCompatActivity(){
 
 
     }
-    private fun loginToFirebase(email:String, password:String){
+    fun loginToFirebase(email:String, password:String){
         mAuth!!.createUserWithEmailAndPassword(email,password)
             .addOnCompleteListener(this){task ->
                 if(task.isSuccessful){
