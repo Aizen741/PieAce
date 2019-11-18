@@ -28,16 +28,10 @@ class LoginActivity : AppCompatActivity(){
         val email = loginEmailText.text.toString()
         val password = loginEmailText.text.toString()
         loginToFirebase(email,password)
-        loginLoginbtn.setOnClickListener {
-            val moveforwardIntent = Intent(this, thirdpage::class.java)
-            startActivity(moveforwardIntent)
-        }
-
-
 
 
     }
-    fun loginToFirebase(email:String,password:String){
+    private fun loginToFirebase(email:String, password:String){
         mAuth!!.createUserWithEmailAndPassword(email,password)
             .addOnCompleteListener(this){task ->
                 if(task.isSuccessful){
@@ -49,6 +43,15 @@ class LoginActivity : AppCompatActivity(){
 
                 }
             }
+    }
+    // this is how you connect the second page after you login
+    override fun onStart(){
+        super.onStart()
+        val currentUser= mAuth!!.currentUser
+        if (currentUser != null){
+            val intent = Intent(this,thirdpage::class.java)
+            startActivity(intent)
+        }
     }
 
 
