@@ -19,4 +19,5 @@
     <string name="login">LOGIN</string>
     <string name="password">password</string>
     <string name="email">Email</string>
+    <string name="title_activity_maps">loginsec</string>
 </resources>

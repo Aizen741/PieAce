@@ -10,7 +10,7 @@ class LoginActivity : AppCompatActivity(){
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
-        loginLoginbtn.setOnClickListener { val buttonIntent = Intent(this,thirdpage::class.java)
+        loginLoginbtn.setOnClickListener { val buttonIntent = Intent(this,MapsActivity::class.java)
             startActivity(buttonIntent)}
 
     }
