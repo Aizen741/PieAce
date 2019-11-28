@@ -43,13 +43,14 @@
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/nextbuttonofThird"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="44dp"
         android:background="@drawable/new_button"
+        android:onClick="nextbuttonofThirdClicked"
         android:text="NEXT"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"

@@ -39,7 +39,7 @@
         android:text="This project started as an idea for our Design Engineering project . The main concept which fascinated us was the new idea  by which we can change the future and will be able to make life of people around Healthy."
         android:textColor="#FFFFFF"
         android:textSize="18sp"
-        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintBottom_toTopOf="@+id/nextBtn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.638"
         app:layout_constraintStart_toStartOf="parent"
@@ -47,13 +47,14 @@
         app:layout_constraintVertical_bias="0.0" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/nextBtn"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="80dp"
         android:background="@drawable/new_button"
+        android:onClick="nextBtnClicked"
         android:text="NEXT"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"

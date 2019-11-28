@@ -13,10 +13,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // Obtain the FirebaseAnalytics instance.
-        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this)
 
 
-        getStartedBtn.setOnClickListener { val buttonIntent = Intent(this,LoginActivity::class.java)
+        getStartedBtn.setOnClickListener { val buttonIntent = Intent(this,firstPage::class.java)
         startActivity(buttonIntent)}
     }
 
