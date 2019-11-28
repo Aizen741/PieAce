@@ -1,0 +1,167 @@
+[33mcommit 16af57ef7f9a1a4de6a92fa7447d6b0ca93dc5e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Wed Nov 20 20:30:11 2019 +0530
+
+    ReadmeFile added
+
+[33mcommit 136828baefc4f64404e438e6c3acb71ce443f59c[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Mon Nov 18 18:35:02 2019 +0530
+
+    Error#1 in the login
+
+[33mcommit 27f6ebb29ce5fe2d8a535c815d464d1f899878ea[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Mon Nov 18 18:25:05 2019 +0530
+
+    Connected login page to third page
+
+[33mcommit 56301b734f766b34af9030f488ad8d5702d7d9e3[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Mon Nov 18 01:26:05 2019 +0530
+
+    LoginPAgeEdits
+
+[33mcommit fcad580c9b766cf9a967a6343e6c37d1f988f2c5[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Mon Nov 18 01:11:30 2019 +0530
+
+    LoginPAge
+
+[33mcommit 38bcc27e6c139bd1bd84c516794807812c38b747[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Mon Nov 18 00:38:33 2019 +0530
+
+    ThirdLayout
+
+[33mcommit 89cb6bd3ea457852b3e7cb1603a82b59f4aba1ab[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Sun Nov 17 00:57:05 2019 +0530
+
+    SecondLayoutEdit
+
+[33mcommit b10197243619b39dddbe1679a9c99499393fadfe[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Sun Nov 17 00:45:29 2019 +0530
+
+    SecondLayout
+
+[33mcommit 898174413458448674d8bdb5e9d806e18a3c1bf8[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Sun Nov 17 00:31:59 2019 +0530
+
+    ObjectiveLayout
+
+[33mcommit 05b2ddbd5586705c29f7eea30fcb74890952ad71[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Sun Nov 17 00:27:57 2019 +0530
+
+    ObjectiveLayout and connected to firebase
+
+[33mcommit a19bedb0f40382b5721b2d52b28dbf679d394101[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Sat Nov 16 18:13:10 2019 +0530
+
+    Added the Project to Firebase
+
+[33mcommit 62d08543db88e7fd92daf3d6740251b53bf69349[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Fri Nov 15 20:14:07 2019 +0530
+
+    SolvedIdErrors
+
+[33mcommit 37e801cf13dc9ae298044029cc3931118e35d108[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Fri Nov 15 19:44:07 2019 +0530
+
+    CompletedLoginLayout
+
+[33mcommit ad07a616d374e8e634f548573d94d220858d249a[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Fri Nov 15 19:15:51 2019 +0530
+
+    SecondLayoutStarted
+
+[33mcommit 28fd9cd74a228469976212c0e5f3bd2078da2a3b[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Fri Nov 15 19:02:39 2019 +0530
+
+    loginActivity
+
+[33mcommit fd649af70fae71b778c6031b8a2e70f179c88e9e[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Fri Nov 15 18:47:49 2019 +0530
+
+    CustomDrawable
+
+[33mcommit f77fd1c5da9af0cdc725fa97cc1b055e0231ce0f[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Fri Nov 15 18:39:08 2019 +0530
+
+    Layout1Completed1
+
+[33mcommit 1bacec278c2c21ea3c721a954073c6cbf6bc6d25[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Fri Nov 15 18:19:43 2019 +0530
+
+    Layout1Completed
+
+[33mcommit a3df15599f7d6e71eee23389b85ba2ee49d35a5e[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Fri Nov 15 17:51:18 2019 +0530
+
+    layout1
+
+[33mcommit 854edc4accc6b09f49d2104f4a5f36cd7b27cf25[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Fri Nov 15 17:38:30 2019 +0530
+
+    Images
+
+[33mcommit f8249d806e8c519c34346fdfdd0ec656c3af5cc8[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Fri Nov 15 17:35:06 2019 +0530
+
+    AppBuild
+
+[33mcommit b24295df7f0838cdf65f38b5ad589df1d5aa8cd3[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Thu Nov 14 23:32:38 2019 +0530
+
+    App
+
+[33mcommit 1240222961cb05f6ac7af22289a1335206508644[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Thu Nov 14 23:27:48 2019 +0530
+
+    WebsiteFolder
+
+[33mcommit 01b70cee8fbbf38bb003261849e96d23cd034173[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Wed Oct 9 20:42:30 2019 +0530
+
+    Html-css-3
+
+[33mcommit dbb49057d294a0f3ba4f3b23145d0c97a4d700e4[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Wed Oct 9 20:41:27 2019 +0530
+
+    Html-css-2
+
+[33mcommit 9e0f985e191cd076cc6a06031832acec20671f38[m
+Author: Aizen741 <rahulsivadas2009@gmail.com>
+Date:   Wed Oct 9 20:37:16 2019 +0530
+
+    Html-css
+
+[33mcommit aa68d95008bdcdadc04a9fc9d2d155f21f8ef79a[m
+Author: Rahul Sivadasan <39067962+Aizen741@users.noreply.github.com>
+Date:   Wed Oct 9 20:31:49 2019 +0530
+
+    Update README.md
+
+[33mcommit e70be0f37238782e1ef9782009c9f263c26b5551[m
+Author: Rahul Sivadasan <39067962+Aizen741@users.noreply.github.com>
+Date:   Wed Oct 9 20:31:01 2019 +0530
+
+    Initial commit
