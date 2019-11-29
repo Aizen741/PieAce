@@ -1,11 +1,4 @@
-# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
-*.rb linguist-language=Kotlin
-
-# Replace any whitespace in the language name with hyphens:
-*.glyphs linguist-language=OpenStep-Property-List
-
-# Some examples of various styles:
-vim: syntax=Kotlin
-vim: set syntax=HTML:
-vim: set filetype=prolog:
-vim: set ft=kt:
+*.kotlin linguist-detectable=true
+ *.js linguist-detectable=false
+ *.html linguist-detectable=false
+ *.xml linguist-detectable=false
