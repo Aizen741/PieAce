@@ -1,4 +1,4 @@
 *.kotlin linguist-detectable=true
  *.js linguist-detectable=false
- *.html linguist-detectable=false
+ *.html linguist-detectable=true
  *.xml linguist-detectable=false
