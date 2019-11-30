@@ -7,7 +7,7 @@ import com.google.firebase.analytics.FirebaseAnalytics
 import kotlinx.android.synthetic.main.activity_main.*
 
 
-class MainActivity : AppCompatActivity() {
+ class MainActivity : AppCompatActivity() {
     private var mFirebaseAnalytics: FirebaseAnalytics? = null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this)
 
 
-        getStartedBtn.setOnClickListener { val buttonIntent = Intent(this,MapsActivity::class.java)
+        getStartedBtn.setOnClickListener { val buttonIntent = Intent(this,firstPage::class.java)
         startActivity(buttonIntent)}
     }
 
