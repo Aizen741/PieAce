@@ -19,7 +19,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_keyforSurat" />
+            android:value="AIzaSyAeBd266PaaXLk0Iigwlg3BGbqoj3AqV1I" />
 
         <activity android:name=".thirdpage" />
         <activity android:name=".secondPage" />
