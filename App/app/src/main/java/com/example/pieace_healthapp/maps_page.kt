@@ -44,7 +44,7 @@ class maps_page : AppCompatActivity(), OnMapReadyCallback {
         // Add a marker in Sydney and move the camera
         val latitude = 21.164781
         val longitude = 72.787350
-        val zoomLevel = 16f
+        val zoomLevel = 5f
 
         val homeLatLng = LatLng(latitude, longitude)
         map.moveCamera(CameraUpdateFactory.newLatLngZoom(homeLatLng, zoomLevel))
