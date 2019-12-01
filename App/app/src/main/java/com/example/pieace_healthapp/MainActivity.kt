@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this)
 
 
-        getStartedBtn.setOnClickListener { val buttonIntent = Intent(this,firstPage::class.java)
+        getStartedBtn.setOnClickListener { val buttonIntent = Intent(this,maps_page::class.java)
         startActivity(buttonIntent)}
     }
 
