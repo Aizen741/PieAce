@@ -17,14 +17,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/firstpage" />
+        app:srcCompat="@drawable/firstpage"
+        android:contentDescription="@string/todo" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="136dp"
         android:layout_height="30dp"
         android:layout_marginTop="32dp"
-        android:text="OBJECTIVE"
+        android:text="@string/objective"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -36,7 +37,7 @@
         android:layout_width="339dp"
         android:layout_height="151dp"
         android:layout_marginTop="100dp"
-        android:text="This project started as an idea for our Design Engineering project . The main concept which fascinated us was the new idea  by which we can change the future and will be able to make life of people around Healthy."
+        android:text="@string/this_project_started_as_an_idea_for_our_design_engineering_project_the_main_concept_which_fascinated_us_was_the_new_idea_by_which_we_can_change_the_future_and_will_be_able_to_make_life_of_people_around_healthy"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/nextBtn"
@@ -55,10 +56,11 @@
         android:layout_marginBottom="80dp"
         android:background="@drawable/new_button"
         android:onClick="nextBtnClicked"
-        android:text="NEXT"
+        android:text="@string/next"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="OnClick" />
 </androidx.constraintlayout.widget.ConstraintLayout>

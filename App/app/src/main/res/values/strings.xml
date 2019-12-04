@@ -22,4 +22,8 @@
     <string name="title_activity_maps">loginsec</string>
     <string name="title_activity_maps_page">Map</string>
     <string name="dropped_pin" />
+    <string name="todo">TODO</string>
+    <string name="objective">OBJECTIVE</string>
+    <string name="this_project_started_as_an_idea_for_our_design_engineering_project_the_main_concept_which_fascinated_us_was_the_new_idea_by_which_we_can_change_the_future_and_will_be_able_to_make_life_of_people_around_healthy">This project started as an idea for our Design Engineering project . The main concept which fascinated us was the new idea by which we can change the future and will be able to make life of people around Healthy.</string>
+    <string name="next">NEXT</string>
 </resources>
