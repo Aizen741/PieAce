@@ -11,7 +11,7 @@ class LoginActivity : AppCompatActivity(){
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
         loginLoginbtn.setOnClickListener {
-            val loginIntent = Intent(this,secondPage::class.java)
+            val loginIntent = Intent(this,maps_page::class.java)
             startActivity(loginIntent)
         }
 
