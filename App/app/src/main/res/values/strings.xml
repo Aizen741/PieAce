@@ -1,29 +1,35 @@
-<resources>
-    <string name="app_name">PieAce_HealthApp</string>
-    <string name="a_path_towards_a_better_future">A Path towards a Better Future</string>
-    <string name="get_started">GET STARTED</string>
-    <string name="to_keep_the_body_in_good_health_is_a_duty_otherwise_we_shall_not_be_able_to_keep_our_mind_strong_and_clear">..To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear..</string>
-    <string name="backgroundimageofwelcome">backgroundImage</string>
-    <string name="logo">logo</string>
-    <string name="title_activity_login">Sign in</string>
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in or register</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="welcome">"Welcome !"</string>
-    <string name="invalid_username">Not a valid username</string>
-    <string name="invalid_password">Password must be >5 characters</string>
-    <string name="login_failed">"Login failed"</string>
-    <string name="dont_t_have_an_account">Dont\'t have an account?</string>
-    <string name="sign_up">Sign-up</string>
-    <string name="login">LOGIN</string>
-    <string name="password">password</string>
-    <string name="email">Email</string>
-    <string name="title_activity_maps">loginsec</string>
-    <string name="title_activity_maps_page">Map</string>
-    <string name="dropped_pin" />
-    <string name="todo">TODO</string>
-    <string name="objective">OBJECTIVE</string>
-    <string name="this_project_started_as_an_idea_for_our_design_engineering_project_the_main_concept_which_fascinated_us_was_the_new_idea_by_which_we_can_change_the_future_and_will_be_able_to_make_life_of_people_around_healthy">This project started as an idea for our Design Engineering project . The main concept which fascinated us was the new idea by which we can change the future and will be able to make life of people around Healthy.</string>
-    <string name="next">NEXT</string>
+<!--
+  ~ SPDX-License-Identifier: GPL-3.0-only
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">MotionMate</string>
+    <string name="steps" translatable="false">steps</string>
+    <string name="meters_today" translatable="false">%.2f km</string>
+    <plurals name="steps_text">
+        <item quantity="one">%d step</item>
+        <item quantity="other">%d steps</item>
+    </plurals>
+    <string name="history">History</string>
+    <string name="steps_day_display">On %tD you walked about %.2f km with %d steps.</string>
+    <string name="no_entry">No record for %tD.</string>
+    <string name="week_display_format">Week %d: %tD - %tD</string>
+    <string name="steps_month">Steps this month</string>
+    <string name="avg_distance">Average distance per day</string>
+    <string name="overall_distance">Overall distance</string>
+    <string name="steps_format">%.2f km or %d steps</string>
+    <string name="new_activity">New Activity</string>
+    <string name="new_activity_started">Started new activity</string>
+    <string name="backgroundimageofwelcome" tools:ignore="MissingTranslation">backgroundImage</string>
+    <string name="logo" tools:ignore="MissingTranslation">logo</string>
+    <string name="a_path_towards_a_better_future" translatable="false">A Path towards a Better Future</string>
+    <string name="get_started" tools:ignore="MissingTranslation">GET STARTED</string>
+    <string name="to_keep_the_body_in_good_health_is_a_duty_otherwise_we_shall_not_be_able_to_keep_our_mind_strong_and_clear" tools:ignore="MissingTranslation">..To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear..</string>
+    <string name="todo" tools:ignore="MissingTranslation">todoo</string>
+    <string name="objective" translatable="false">OBJECTIVE</string>
+    <string name="this_project_started_as_an_idea_for_our_design_engineering_project_the_main_concept_which_fascinated_us_was_the_new_idea_by_which_we_can_change_the_future_and_will_be_able_to_make_life_of_people_around_healthy" translatable="false">This project started as an idea for our Design Engineering project . The main concept which fascinated us was the new idea by which we can change the future and will be able to make life of people around Healthy.</string>
+    <string name="next" translatable="false">NEXT</string>
+    <string name="what_inspired_us">What Inspired Us ?</string>
+    <string name="textview">TextView</string>
+    <string name="NEXT">NEXT</string>
 </resources>
