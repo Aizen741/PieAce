@@ -18,10 +18,12 @@ class loginOne : AppCompatActivity() {
             val loginIntent = Intent(this, MainActivity::class.java)
             startActivity(loginIntent)
         }
+        signupBtn.setOnClickListener {
+            val signupIntent = Intent(this,registration::class.java)
+            startActivity(signupIntent)
+        }
         }
 
-    fun loginBtnClicked(view: View) {}
-    fun signupBtnClicked(view: View) {}
 
 }
 
