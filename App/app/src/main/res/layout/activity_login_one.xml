@@ -20,7 +20,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/runn"
-        tools:visibility="visible" />
+        tools:visibility="visible"
+        tools:ignore="ContentDescription" />
 
     <EditText
         android:id="@+id/emailText"
@@ -34,12 +35,14 @@
         android:autoText="false"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Email  "
+        android:text="@string/email"
         android:textIsSelectable="false"
         android:textSize="22sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/logoOfLoginPage" />
+        app:layout_constraintTop_toBottomOf="@+id/logoOfLoginPage"
+        android:importantForAutofill="no"
+        tools:ignore="Deprecated,LabelFor,TextFields" />
 
     <EditText
         android:id="@+id/passwordtext"
@@ -52,14 +55,15 @@
         android:layout_marginRight="32dp"
         android:ems="10"
         android:fadeScrollbars="false"
-        android:hint=" Password"
+        android:hint="@string/password"
         android:inputType="textPassword"
         android:textColor="#FFFFFF"
         android:textColorHint="#FFFFFF"
         android:textSize="22sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/emailText" />
+        app:layout_constraintTop_toBottomOf="@+id/emailText"
+        android:importantForAutofill="no" />
 
     <Button
         android:id="@+id/loginBtn"
@@ -73,11 +77,12 @@
         android:background="@drawable/new_button"
         android:onClick="loginBtnClicked"
         android:shadowColor="#00B00505"
-        android:text="LOGIN"
+        android:text="@string/login"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/passwordtext" />
+        app:layout_constraintTop_toBottomOf="@+id/passwordtext"
+        tools:ignore="OnClick" />
 
     <Button
         android:id="@+id/signupBtn"
@@ -90,11 +95,12 @@
         android:layout_marginBottom="140dp"
         android:background="#C5783B"
         android:onClick="signupBtnClicked"
-        android:text="Sign-Up"
+        android:text="@string/sign_up"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="@+id/imageView5"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="OnClick" />
 
     <ImageView
         android:id="@+id/logoOfLoginPage"
@@ -105,7 +111,8 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/logo" />
+        app:srcCompat="@drawable/logo"
+        tools:ignore="ContentDescription" />
 
     <TextView
         android:id="@+id/textView2"
@@ -113,7 +120,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:layout_marginBottom="8dp"
-        android:text="Don't have an Account?"
+        android:text="@string/don_t_have_an_account"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/signupBtn"

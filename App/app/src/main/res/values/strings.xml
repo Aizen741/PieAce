@@ -32,4 +32,9 @@
     <string name="what_inspired_us">What Inspired Us ?</string>
     <string name="textview">TextView</string>
     <string name="NEXT">NEXT</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
 </resources>

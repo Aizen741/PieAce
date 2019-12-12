@@ -21,7 +21,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
-        <activity android:name=".ui.cards.loginOne"></activity>
+        <activity android:name=".ui.cards.registration"></activity>
+        <activity android:name=".ui.cards.loginOne" />
         <activity android:name=".ui.cards.secondPage" />
         <activity android:name=".ui.cards.firstPage" />
         <activity android:name=".ui.cards.StartingActivity">
@@ -41,7 +42,7 @@
             android:name=".service.MotionService"
             android:process=":MotionService" />
 
-        <receiver android:name=".service.OnBootReceiver"></receiver>
+        <receiver android:name=".service.OnBootReceiver" />
     </application>
 
 </manifest>
