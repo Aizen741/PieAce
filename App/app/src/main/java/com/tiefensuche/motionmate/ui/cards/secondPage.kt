@@ -4,6 +4,7 @@ import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import android.view.View
 import com.tiefensuche.motionmate.R
 import kotlinx.android.synthetic.main.activity_second_page.*
 
@@ -20,4 +21,6 @@ class secondPage : AppCompatActivity() {
         }
 
     }
+
+    fun nextbuttonofThirdClicked(view: View) {}
 }

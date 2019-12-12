@@ -3,7 +3,7 @@
   -->
 
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name" translatable="false">MotionMate</string>
+    <string name="app_name" translatable="false">PieAce</string>
     <string name="steps" translatable="false">steps</string>
     <string name="meters_today" translatable="false">%.2f km</string>
     <plurals name="steps_text">
@@ -29,7 +29,14 @@
     <string name="objective" translatable="false">OBJECTIVE</string>
     <string name="this_project_started_as_an_idea_for_our_design_engineering_project_the_main_concept_which_fascinated_us_was_the_new_idea_by_which_we_can_change_the_future_and_will_be_able_to_make_life_of_people_around_healthy" translatable="false">This project started as an idea for our Design Engineering project . The main concept which fascinated us was the new idea by which we can change the future and will be able to make life of people around Healthy.</string>
     <string name="what_inspired_us" translatable="false">What Inspired Us ?</string>
-    <string name="textview" translatable="false">TextView</string>
+    <string name="textview" translatable="false">This idea of ours is actually the piezoelectric flooring along with a idea of an
+"app" that we created which was inspired from "Runtastic"(A running app which
+calculate and Pokémon Go (which was a new concept of gaming)"
+Imagine a flooring system that creates electricity and an app with stores the
+data you walked on that floor like number of steps and the units of electric current
+we created .
+
+As I said earlier . Dots of ideas connected together helped us to build this Idea.Piezoelectric flooring was already invented, but we are approaching this whole system of innovation as a contributor point of View</string>
     <string name="NEXT" tools:ignore="MissingTranslation">NEXT</string>
     <string name="password" translatable="false">Password</string>
     <string name="login" translatable="false">LOGIN</string>

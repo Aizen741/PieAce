@@ -45,7 +45,7 @@
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_main.xml:6
 -keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
 
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_main.xml:65
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_main.xml:66
 -keep class android.support.design.widget.FloatingActionButton { <init>(...); }
 
 # Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/mtrl_layout_snackbar.xml:18
@@ -147,7 +147,7 @@
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_first_page.xml:50
 -keepclassmembers class * { *** nextBtnClicked(android.view.View); }
 
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_second_page.xml:45
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_second_page.xml:51
 -keepclassmembers class * { *** nextbuttonofThirdClicked(android.view.View); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml:126
