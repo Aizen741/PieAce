@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:6:1-52:12
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:6:1-52:12
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:6:1-52:12
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:6:1-52:12
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:2:1-47:12
 MERGED from [com.android.support:design:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/d02afa1a52406b4fba4cc02f23c80ece/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
@@ -35,47 +35,47 @@ MERGED from [com.android.support:interpolator:28.0.0] /home/aizen741/.gradle/cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aizen741/.gradle/caches/transforms-2/files-2.1/d80eb2557ed5c963f9c6e98c15092897/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aizen741/.gradle/caches/transforms-2/files-2.1/160a398903f7a8e5c4b5d2d71a777dfa/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/aizen741/.gradle/caches/transforms-2/files-2.1/34d8e852d7aec8722dbaa02874f70e2c/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:6:1-52:12
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:6:1-52:12
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:6:1-52:12
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:8:5-41
-		INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:6:1-52:12
-		INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:7:5-51
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:6:1-52:12
-		INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:6:11-69
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:10:5-81
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:10:22-78
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:11:5-77
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:7:5-77
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:11:22-74
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:7:22-74
 uses-feature#android.hardware.sensor.accelerometer
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:13:5-15:36
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:9:5-11:36
 	android:required
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:15:9-33
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:11:9-33
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:14:9-61
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:10:9-61
 uses-feature#android.hardware.sensor.stepcounter
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:16:5-18:36
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:12:5-14:36
 	android:required
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:18:9-33
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:14:9-33
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:17:9-59
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:13:9-59
 application
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:20:5-50:19
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:16:5-45:19
 MERGED from [com.android.support:design:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b0832d9547fc3b4a048bd561590a223d/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
@@ -87,65 +87,69 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aizen741/.gra
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/e7310b10cc2fb9baef9b1b7b0018c8c4/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:25:9-35
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:21:9-35
 	android:label
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:20:9-41
 	android:fullBackupContent
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:22:9-59
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:18:9-59
 	tools:ignore
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:27:9-60
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:23:9-60
 	android:icon
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:19:9-43
 	android:allowBackup
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:21:9-35
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:26:9-40
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:22:9-40
+activity#com.tiefensuche.motionmate.ui.cards.loginOne
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:24:9-64
+	android:name
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:24:19-52
 activity#com.tiefensuche.motionmate.ui.cards.secondPage
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:28:9-57
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:25:9-57
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:28:19-54
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:25:19-54
 activity#com.tiefensuche.motionmate.ui.cards.firstPage
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:29:9-56
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:26:9-56
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:29:19-53
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:26:19-53
 activity#com.tiefensuche.motionmate.ui.cards.StartingActivity
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:30:9-36:20
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:27:9-33:20
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:30:19-60
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:27:19-60
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:31:13-35:29
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:32:17-69
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:32:25-66
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:34:17-77
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:34:27-74
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:31:27-74
 activity#com.tiefensuche.motionmate.ui.MainActivity
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:37:9-41:59
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:34:9-38:59
 	android:label
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:39:13-45
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:36:13-45
 	android:launchMode
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:40:13-48
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:37:13-48
 	android:theme
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:41:13-56
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:38:13-56
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:38:13-44
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:35:13-44
 service#com.tiefensuche.motionmate.service.MotionService
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:43:9-45:48
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:40:9-42:48
 	android:process
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:45:13-45
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:42:13-45
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:44:13-50
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:41:13-50
 receiver#com.tiefensuche.motionmate.service.OnBootReceiver
-ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:47:9-49:20
+ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:44:9-69
 	android:name
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml:47:19-57
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:44:19-57
 uses-sdk
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
@@ -208,13 +212,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aizen741/.gradle/
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aizen741/.gradle/caches/transforms-2/files-2.1/160a398903f7a8e5c4b5d2d71a777dfa/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/aizen741/.gradle/caches/transforms-2/files-2.1/34d8e852d7aec8722dbaa02874f70e2c/runtime-1.1.1/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/aizen741/.gradle/caches/transforms-2/files-2.1/34d8e852d7aec8722dbaa02874f70e2c/runtime-1.1.1/AndroidManifest.xml:20:5-44
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
-INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
+INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
-		ADDED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/aizen741/Desktop/StepCountingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
+		ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml

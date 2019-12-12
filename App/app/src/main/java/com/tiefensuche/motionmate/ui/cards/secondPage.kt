@@ -16,7 +16,7 @@ class secondPage : AppCompatActivity() {
         setContentView(R.layout.activity_second_page)
 
         nextbuttonofThird.setOnClickListener {
-            val buttonIntent = Intent(this, MainActivity::class.java)
+            val buttonIntent = Intent(this, loginOne::class.java)
             startActivity(buttonIntent)
         }
 

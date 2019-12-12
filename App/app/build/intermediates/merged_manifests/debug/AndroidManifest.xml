@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--   ~ SPDX-License-Identifier: GPL-3.0-only -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.tiefensuche.motionmate.debug"
     android:versionCode="6"
@@ -29,6 +28,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.tiefensuche.motionmate.ui.cards.loginOne" />
         <activity android:name="com.tiefensuche.motionmate.ui.cards.secondPage" />
         <activity android:name="com.tiefensuche.motionmate.ui.cards.firstPage" />
         <activity android:name="com.tiefensuche.motionmate.ui.cards.StartingActivity" >
@@ -48,8 +48,7 @@
             android:name="com.tiefensuche.motionmate.service.MotionService"
             android:process=":MotionService" />
 
-        <receiver android:name="com.tiefensuche.motionmate.service.OnBootReceiver" >
-        </receiver>
+        <receiver android:name="com.tiefensuche.motionmate.service.OnBootReceiver" />
     </application>
 
 </manifest>

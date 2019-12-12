@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aizen741/Desktop/StepCountingApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
                     "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/values-v17/values-v17.xml",

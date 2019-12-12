@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aizen741/Desktop/StepCountingApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/home/aizen741/Desktop/StepCountingApp/app/src/main/res/values-v21/styles.xml",
+                    "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/values-v21/styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",

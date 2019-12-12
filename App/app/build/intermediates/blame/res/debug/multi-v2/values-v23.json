@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aizen741/Desktop/StepCountingApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/d02afa1a52406b4fba4cc02f23c80ece/cardview-v7-28.0.0/res/values-v23/values-v23.xml",

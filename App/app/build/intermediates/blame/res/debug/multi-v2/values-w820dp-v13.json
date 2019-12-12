@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aizen741/Desktop/StepCountingApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/aizen741/Desktop/StepCountingApp/app/src/main/res/values-w820dp/dimens.xml",
+                    "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "8",
                         "startColumns": "4",
