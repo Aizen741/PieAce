@@ -150,7 +150,7 @@
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_second_page.xml:45
 -keepclassmembers class * { *** nextbuttonofThirdClicked(android.view.View); }
 
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml:115
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml:124
 -keepclassmembers class * { *** nextmapbtnClicked(android.view.View); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_login_one.xml:87

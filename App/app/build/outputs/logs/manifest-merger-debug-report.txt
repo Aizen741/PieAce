@@ -8,6 +8,7 @@ MERGED from [com.android.support:design:28.0.0] /home/aizen741/.gradle/caches/tr
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/d02afa1a52406b4fba4cc02f23c80ece/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/5a4aef4ad420306fd4d6dcc8e745fa75/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/e12504a42c0261241b87fd5047153bf2/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b0832d9547fc3b4a048bd561590a223d/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b154f340b0d78b298bdae9f2786ad57c/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b0ae2a64825805e4cdcda90fa4a9e315/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
@@ -78,6 +79,8 @@ application
 ADDED from /home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:16:5-46:19
 MERGED from [com.android.support:design:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/e12504a42c0261241b87fd5047153bf2/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/e12504a42c0261241b87fd5047153bf2/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b0832d9547fc3b4a048bd561590a223d/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b0832d9547fc3b4a048bd561590a223d/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/e7310b10cc2fb9baef9b1b7b0018c8c4/support-compat-28.0.0/AndroidManifest.xml:22:5-94
@@ -162,6 +165,8 @@ MERGED from [com.android.support:cardview-v7:28.0.0] /home/aizen741/.gradle/cach
 MERGED from [com.android.support:cardview-v7:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/d02afa1a52406b4fba4cc02f23c80ece/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/5a4aef4ad420306fd4d6dcc8e745fa75/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/5a4aef4ad420306fd4d6dcc8e745fa75/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/e12504a42c0261241b87fd5047153bf2/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/e12504a42c0261241b87fd5047153bf2/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b0832d9547fc3b4a048bd561590a223d/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b0832d9547fc3b4a048bd561590a223d/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-fragment:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/b154f340b0d78b298bdae9f2786ad57c/support-fragment-28.0.0/AndroidManifest.xml:20:5-44

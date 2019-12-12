@@ -1419,13 +1419,17 @@ string don_t_have_an_account
 string email
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string female
 string get_started
+string height_in_cm
 string hide_bottom_view_on_scroll_behavior
 string history
 string login
 string logo
+string male
 string meters_today
 string mtrl_chip_close_icon_content_description
+string name
 string new_activity
 string new_activity_started
 string next
@@ -1438,6 +1442,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string registration
 string search_menu_title
 string sign_up
 string status_bar_notification_info_overflow
@@ -1450,6 +1455,7 @@ string this_project_started_as_an_idea_for_our_design_engineering_project_the_ma
 string to_keep_the_body_in_good_health_is_a_duty_otherwise_we_shall_not_be_able_to_keep_our_mind_strong_and_clear
 string todo
 string week_display_format
+string weight_in_lbs
 string what_inspired_us
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

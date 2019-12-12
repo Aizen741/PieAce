@@ -212,16 +212,16 @@
         "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_activity_registration.xml.flat",
-        "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_activity_registration.xml.flat",
+        "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
@@ -1256,12 +1256,12 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",

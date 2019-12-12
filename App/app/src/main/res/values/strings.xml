@@ -28,21 +28,19 @@
     <string name="todo" tools:ignore="MissingTranslation">todoo</string>
     <string name="objective" translatable="false">OBJECTIVE</string>
     <string name="this_project_started_as_an_idea_for_our_design_engineering_project_the_main_concept_which_fascinated_us_was_the_new_idea_by_which_we_can_change_the_future_and_will_be_able_to_make_life_of_people_around_healthy" translatable="false">This project started as an idea for our Design Engineering project . The main concept which fascinated us was the new idea by which we can change the future and will be able to make life of people around Healthy.</string>
-    <string name="next" translatable="false">NEXT</string>
-    <string name="what_inspired_us">What Inspired Us ?</string>
-    <string name="textview">TextView</string>
-    <string name="NEXT">NEXT</string>
-    <string name="email">Email</string>
-    <string name="password">Password</string>
-    <string name="login">LOGIN</string>
-    <string name="sign_up">Sign-Up</string>
-    <string name="don_t_have_an_account">Don\'t have an Account?</string>
-    <string name="registration">REGISTRATION</string>
-    <string name="name">Name</string>
-    <string name="male">Male</string>
-    <string name="female">Female</string>
-    <string name="height_in_cm">Height in cm</string>
-    <string name="weight_in_lbs">Weight in lbs</string>
-    <string name="email">Email</string>
-    <string name="next">NEXT</string>
+    <string name="what_inspired_us" translatable="false">What Inspired Us ?</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="NEXT" tools:ignore="MissingTranslation">NEXT</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="login" translatable="false">LOGIN</string>
+    <string name="sign_up" translatable="false">Sign-Up</string>
+    <string name="don_t_have_an_account" translatable="false">Don\'t have an Account?</string>
+    <string name="registration" translatable="false">REGISTRATION</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="male" translatable="false">Male</string>
+    <string name="female" translatable="false">Female</string>
+    <string name="height_in_cm" translatable="false">Height in cm</string>
+    <string name="weight_in_lbs" translatable="false">Weight in lbs</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="next" tools:ignore="MissingTranslation">NEXT</string>
 </resources>
