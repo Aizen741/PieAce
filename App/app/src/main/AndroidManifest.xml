@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ SPDX-License-Identifier: GPL-3.0-only
-  -->
-
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.tiefensuche.motionmate">
@@ -25,6 +21,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+        <activity android:name=".ui.cards.loginOne"></activity>
         <activity android:name=".ui.cards.secondPage" />
         <activity android:name=".ui.cards.firstPage" />
         <activity android:name=".ui.cards.StartingActivity">
@@ -44,9 +41,7 @@
             android:name=".service.MotionService"
             android:process=":MotionService" />
 
-        <receiver android:name=".service.OnBootReceiver">
-
-        </receiver>
+        <receiver android:name=".service.OnBootReceiver"></receiver>
     </application>
 
 </manifest>
