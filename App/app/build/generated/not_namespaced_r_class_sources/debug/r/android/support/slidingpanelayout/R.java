@@ -62,18 +62,18 @@ public final class R {
     public static final class drawable {
         private drawable() {}
 
-        public static final int notification_action_background = 0x7f070070;
-        public static final int notification_bg = 0x7f070071;
-        public static final int notification_bg_low = 0x7f070072;
-        public static final int notification_bg_low_normal = 0x7f070073;
-        public static final int notification_bg_low_pressed = 0x7f070074;
-        public static final int notification_bg_normal = 0x7f070075;
-        public static final int notification_bg_normal_pressed = 0x7f070076;
-        public static final int notification_icon_background = 0x7f070077;
-        public static final int notification_template_icon_bg = 0x7f070078;
-        public static final int notification_template_icon_low_bg = 0x7f070079;
-        public static final int notification_tile_bg = 0x7f07007a;
-        public static final int notify_panel_notification_icon_bg = 0x7f07007b;
+        public static final int notification_action_background = 0x7f070071;
+        public static final int notification_bg = 0x7f070072;
+        public static final int notification_bg_low = 0x7f070073;
+        public static final int notification_bg_low_normal = 0x7f070074;
+        public static final int notification_bg_low_pressed = 0x7f070075;
+        public static final int notification_bg_normal = 0x7f070076;
+        public static final int notification_bg_normal_pressed = 0x7f070077;
+        public static final int notification_icon_background = 0x7f070078;
+        public static final int notification_template_icon_bg = 0x7f070079;
+        public static final int notification_template_icon_low_bg = 0x7f07007a;
+        public static final int notification_tile_bg = 0x7f07007b;
+        public static final int notify_panel_notification_icon_bg = 0x7f07007c;
     }
     public static final class id {
         private id() {}
@@ -86,26 +86,26 @@ public final class R {
         public static final int async = 0x7f08001e;
         public static final int blocking = 0x7f080023;
         public static final int chronometer = 0x7f08002d;
-        public static final int forever = 0x7f08004f;
-        public static final int icon = 0x7f080057;
-        public static final int icon_group = 0x7f080058;
-        public static final int info = 0x7f08005f;
-        public static final int italic = 0x7f080061;
-        public static final int line1 = 0x7f080066;
-        public static final int line3 = 0x7f080067;
-        public static final int normal = 0x7f080079;
-        public static final int notification_background = 0x7f08007a;
-        public static final int notification_main_column = 0x7f08007b;
-        public static final int notification_main_column_container = 0x7f08007c;
-        public static final int right_icon = 0x7f08008c;
-        public static final int right_side = 0x7f08008d;
-        public static final int tag_transition_group = 0x7f0800ba;
-        public static final int tag_unhandled_key_event_manager = 0x7f0800bb;
-        public static final int tag_unhandled_key_listeners = 0x7f0800bc;
-        public static final int text = 0x7f0800bd;
-        public static final int text2 = 0x7f0800be;
-        public static final int time = 0x7f0800d2;
-        public static final int title = 0x7f0800d3;
+        public static final int forever = 0x7f080051;
+        public static final int icon = 0x7f08005a;
+        public static final int icon_group = 0x7f08005b;
+        public static final int info = 0x7f080063;
+        public static final int italic = 0x7f080065;
+        public static final int line1 = 0x7f08006a;
+        public static final int line3 = 0x7f08006b;
+        public static final int normal = 0x7f080080;
+        public static final int notification_background = 0x7f080081;
+        public static final int notification_main_column = 0x7f080082;
+        public static final int notification_main_column_container = 0x7f080083;
+        public static final int right_icon = 0x7f080094;
+        public static final int right_side = 0x7f080095;
+        public static final int tag_transition_group = 0x7f0800c2;
+        public static final int tag_unhandled_key_event_manager = 0x7f0800c3;
+        public static final int tag_unhandled_key_listeners = 0x7f0800c4;
+        public static final int text = 0x7f0800c5;
+        public static final int text2 = 0x7f0800c6;
+        public static final int time = 0x7f0800da;
+        public static final int title = 0x7f0800db;
     }
     public static final class integer {
         private integer() {}
@@ -115,17 +115,17 @@ public final class R {
     public static final class layout {
         private layout() {}
 
-        public static final int notification_action = 0x7f0b0033;
-        public static final int notification_action_tombstone = 0x7f0b0034;
-        public static final int notification_template_custom_big = 0x7f0b0035;
-        public static final int notification_template_icon_group = 0x7f0b0036;
-        public static final int notification_template_part_chronometer = 0x7f0b0037;
-        public static final int notification_template_part_time = 0x7f0b0038;
+        public static final int notification_action = 0x7f0b0034;
+        public static final int notification_action_tombstone = 0x7f0b0035;
+        public static final int notification_template_custom_big = 0x7f0b0036;
+        public static final int notification_template_icon_group = 0x7f0b0037;
+        public static final int notification_template_part_chronometer = 0x7f0b0038;
+        public static final int notification_template_part_time = 0x7f0b0039;
     }
     public static final class string {
         private string() {}
 
-        public static final int status_bar_notification_info_overflow = 0x7f0e0044;
+        public static final int status_bar_notification_info_overflow = 0x7f0e0049;
     }
     public static final class style {
         private style() {}

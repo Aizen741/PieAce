@@ -37,4 +37,12 @@
     <string name="login">LOGIN</string>
     <string name="sign_up">Sign-Up</string>
     <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="name">Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height_in_cm">Height in cm</string>
+    <string name="weight_in_lbs">Weight in lbs</string>
+    <string name="email">Email</string>
+    <string name="next">NEXT</string>
 </resources>

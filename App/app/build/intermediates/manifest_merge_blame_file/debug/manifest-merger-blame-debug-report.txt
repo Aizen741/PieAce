@@ -31,7 +31,7 @@
 19-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:14:9-33
 20
 21    <application
-21-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:16:5-45:19
+21-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:16:5-46:19
 22        android:allowBackup="true"
 22-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:17:9-35
 23        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
@@ -48,50 +48,53 @@
 29        android:testOnly="true"
 30        android:theme="@style/AppTheme" >
 30-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:22:9-40
-31        <activity android:name="com.tiefensuche.motionmate.ui.cards.loginOne" />
-31-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:24:9-64
-31-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:24:19-52
-32        <activity android:name="com.tiefensuche.motionmate.ui.cards.secondPage" />
-32-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:25:9-57
-32-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:25:19-54
-33        <activity android:name="com.tiefensuche.motionmate.ui.cards.firstPage" />
-33-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:26:9-56
-33-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:26:19-53
-34        <activity android:name="com.tiefensuche.motionmate.ui.cards.StartingActivity" >
-34-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:27:9-33:20
-34-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:27:19-60
-35            <intent-filter>
-35-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:28:13-32:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:29:17-69
-36-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:29:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:31:17-77
-38-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:31:27-74
-39            </intent-filter>
-40        </activity>
-41        <activity
-41-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:34:9-38:59
-42            android:name="com.tiefensuche.motionmate.ui.MainActivity"
-42-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:35:13-44
-43            android:label="@string/app_name"
-43-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:36:13-45
-44            android:launchMode="singleInstance"
-44-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:37:13-48
-45            android:theme="@style/AppTheme.NoActionBar" />
-45-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:38:13-56
-46
-47        <service
-47-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:40:9-42:48
-48            android:name="com.tiefensuche.motionmate.service.MotionService"
-48-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:41:13-50
-49            android:process=":MotionService" />
-49-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:42:13-45
-50
-51        <receiver android:name="com.tiefensuche.motionmate.service.OnBootReceiver" />
-51-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:44:9-69
-51-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:44:19-57
-52    </application>
-53
-54</manifest>
+31        <activity android:name="com.tiefensuche.motionmate.ui.cards.registrationPage" />
+31-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:24:9-72
+31-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:24:19-60
+32        <activity android:name="com.tiefensuche.motionmate.ui.cards.loginOne" />
+32-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:25:9-55
+32-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:25:19-52
+33        <activity android:name="com.tiefensuche.motionmate.ui.cards.secondPage" />
+33-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:26:9-57
+33-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:26:19-54
+34        <activity android:name="com.tiefensuche.motionmate.ui.cards.firstPage" />
+34-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:27:9-56
+34-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:27:19-53
+35        <activity android:name="com.tiefensuche.motionmate.ui.cards.StartingActivity" >
+35-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:28:9-34:20
+35-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:28:19-60
+36            <intent-filter>
+36-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:29:13-33:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:30:17-69
+37-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:30:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:32:17-77
+39-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:32:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:35:9-39:59
+43            android:name="com.tiefensuche.motionmate.ui.MainActivity"
+43-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:36:13-44
+44            android:label="@string/app_name"
+44-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:37:13-45
+45            android:launchMode="singleInstance"
+45-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:38:13-48
+46            android:theme="@style/AppTheme.NoActionBar" />
+46-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:39:13-56
+47
+48        <service
+48-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:41:9-43:48
+49            android:name="com.tiefensuche.motionmate.service.MotionService"
+49-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:42:13-50
+50            android:process=":MotionService" />
+50-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:43:13-45
+51
+52        <receiver android:name="com.tiefensuche.motionmate.service.OnBootReceiver" />
+52-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:45:9-60
+52-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:45:19-57
+53    </application>
+54
+55</manifest>

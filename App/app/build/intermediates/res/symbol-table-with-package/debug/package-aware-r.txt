@@ -999,6 +999,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable backgroudogheaven
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1031,6 +1032,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable ojkka
 drawable runn
 drawable secondpages
 drawable tooltip_frame_dark
@@ -1104,6 +1106,7 @@ id dimensions
 id direct
 id disableHome
 id edit_query
+id emailId
 id emailText
 id end
 id enterAlways
@@ -1112,6 +1115,7 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fab
+id female
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1123,6 +1127,7 @@ id ghost_view
 id gone
 id group_divider
 id groups
+id height
 id home
 id homeAsUp
 id icon
@@ -1131,6 +1136,7 @@ id ifRoom
 id image
 id imageButton
 id imageView2
+id imageView3
 id imageView4
 id imageView5
 id info
@@ -1147,6 +1153,7 @@ id list_item
 id loginBtn
 id logo
 id logoOfLoginPage
+id male
 id masked
 id message
 id middle
@@ -1154,10 +1161,12 @@ id mini
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
+id nameBox
 id navigation_header_container
 id never
 id nextBtn
 id nextbuttonofThird
+id nextmapbtn
 id none
 id normal
 id notification_background
@@ -1177,6 +1186,7 @@ id progress_horizontal
 id quote
 id radio
 id recyclerView
+id registrationvalue
 id right
 id right_icon
 id right_side
@@ -1268,6 +1278,7 @@ id up
 id useLogo
 id view_offset_helper
 id visible
+id weight
 id withText
 id wrap
 id wrap_content
@@ -1321,6 +1332,7 @@ layout abc_tooltip
 layout activity_first_page
 layout activity_login_one
 layout activity_main
+layout activity_registration
 layout activity_second_page
 layout activity_starting
 layout cardview_text
@@ -1403,11 +1415,14 @@ string backgroundimageofwelcome
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_pattern
+string don_t_have_an_account
+string email
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string get_started
 string hide_bottom_view_on_scroll_behavior
 string history
+string login
 string logo
 string meters_today
 string mtrl_chip_close_icon_content_description
@@ -1417,12 +1432,14 @@ string next
 string no_entry
 string objective
 string overall_distance
+string password
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string sign_up
 string status_bar_notification_info_overflow
 string steps
 string steps_day_display

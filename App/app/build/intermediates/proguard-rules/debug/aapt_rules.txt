@@ -1,21 +1,24 @@
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:21
 -keep class android.support.v4.app.CoreComponentFactory { <init>(); }
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:47
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:48
 -keep class com.tiefensuche.motionmate.service.MotionService { <init>(); }
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:51
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:52
 -keep class com.tiefensuche.motionmate.service.OnBootReceiver { <init>(); }
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:41
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:42
 -keep class com.tiefensuche.motionmate.ui.MainActivity { <init>(); }
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:34
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:35
 -keep class com.tiefensuche.motionmate.ui.cards.StartingActivity { <init>(); }
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:33
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:34
 -keep class com.tiefensuche.motionmate.ui.cards.firstPage { <init>(); }
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:31
--keep class com.tiefensuche.motionmate.ui.cards.loginOne { <init>(); }
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:32
+-keep class com.tiefensuche.motionmate.ui.cards.loginOne { <init>(); }
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:31
+-keep class com.tiefensuche.motionmate.ui.cards.registrationPage { <init>(); }
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:33
 -keep class com.tiefensuche.motionmate.ui.cards.secondPage { <init>(); }
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_starting.xml:2
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_second_page.xml:2
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml:2
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_login_one.xml:2
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_first_page.xml:2
 -keep class android.support.constraint.ConstraintLayout { <init>(...); }
@@ -138,7 +141,7 @@
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_starting.xml:49
 -keepclassmembers class * { *** getStartedBtnClicked(android.view.View); }
 
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_login_one.xml:64
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_login_one.xml:68
 -keepclassmembers class * { *** loginBtnClicked(android.view.View); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_first_page.xml:50
@@ -147,6 +150,9 @@
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_second_page.xml:45
 -keepclassmembers class * { *** nextbuttonofThirdClicked(android.view.View); }
 
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_login_one.xml:82
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml:115
+-keepclassmembers class * { *** nextmapbtnClicked(android.view.View); }
+
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_login_one.xml:87
 -keepclassmembers class * { *** signupBtnClicked(android.view.View); }
 

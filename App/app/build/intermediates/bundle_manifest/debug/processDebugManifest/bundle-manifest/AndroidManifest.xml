@@ -28,6 +28,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.tiefensuche.motionmate.ui.cards.registrationPage" />
         <activity android:name="com.tiefensuche.motionmate.ui.cards.loginOne" />
         <activity android:name="com.tiefensuche.motionmate.ui.cards.secondPage" />
         <activity android:name="com.tiefensuche.motionmate.ui.cards.firstPage" />

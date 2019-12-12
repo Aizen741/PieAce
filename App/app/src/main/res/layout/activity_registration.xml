@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.tiefensuche.motionmate.ui.cards.registration" >
+    tools:context="com.tiefensuche.motionmate.ui.cards.registrationPage" >
 
     <ImageView
         android:id="@+id/imageView3"
@@ -17,14 +17,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/ojkka" />
+        app:srcCompat="@drawable/ojkka"
+        tools:ignore="ContentDescription" />
 
     <TextView
         android:id="@+id/registrationvalue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="REGISTRATION"
+        android:text="@string/registration"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -38,19 +39,21 @@
         android:layout_marginTop="50dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
+        android:text="@string/name"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/registrationvalue" />
+        app:layout_constraintTop_toBottomOf="@+id/registrationvalue"
+        android:importantForAutofill="no"
+        tools:ignore="LabelFor" />
 
     <RadioButton
         android:id="@+id/male"
         android:layout_width="113dp"
         android:layout_height="41dp"
         android:layout_marginTop="24dp"
-        android:text="Male"
+        android:text="@string/male"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.211"
@@ -62,7 +65,7 @@
         android:layout_width="124dp"
         android:layout_height="46dp"
         android:layout_marginTop="24dp"
-        android:text="Female "
+        android:text="@string/female"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.219"
@@ -76,13 +79,15 @@
         android:layout_marginTop="32dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text=" Height in cm "
+        android:text="@string/height_in_cm"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/female" />
+        app:layout_constraintTop_toBottomOf="@+id/female"
+        tools:ignore="LabelFor,TextFields"
+        android:importantForAutofill="no" />
 
     <EditText
         android:id="@+id/weight"
@@ -91,13 +96,15 @@
         android:layout_marginTop="16dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Weight in lbs"
+        android:text="@string/weight_in_lbs"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/height" />
+        app:layout_constraintTop_toBottomOf="@+id/height"
+        tools:ignore="LabelFor,TextFields"
+        android:importantForAutofill="no" />
 
     <EditText
         android:id="@+id/emailId"
@@ -106,11 +113,13 @@
         android:layout_marginTop="16dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Email  "
+        android:text="@string/email"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/weight" />
+        app:layout_constraintTop_toBottomOf="@+id/weight"
+        tools:ignore="LabelFor,TextFields"
+        android:importantForAutofill="no" />
 
     <Button
         android:id="@+id/nextmapbtn"
@@ -123,10 +132,11 @@
         android:layout_marginBottom="50dp"
         android:background="@color/colorPrimaryDark"
         android:onClick="nextmapbtnClicked"
-        android:text="NEXT "
+        android:text="@string/next"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="@+id/imageView3"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="OnClick" />
 
 </android.support.constraint.ConstraintLayout>
