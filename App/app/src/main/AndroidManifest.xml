@@ -22,7 +22,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
         <activity android:name=".ui.cards.registrationPage"></activity>
-        <activity android:name=".ui.cards.loginOne" />
+        <activity android:name=".ui.cards.LoginOne" />
         <activity android:name=".ui.cards.secondPage" />
         <activity android:name=".ui.cards.firstPage" />
         <activity android:name=".ui.cards.StartingActivity">

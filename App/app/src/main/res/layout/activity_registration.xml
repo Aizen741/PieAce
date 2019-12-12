@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/ojkka"
+        app:srcCompat="@drawable/backgroudogheaven"
         tools:ignore="ContentDescription" />
 
     <TextView
@@ -50,9 +50,10 @@
 
     <RadioButton
         android:id="@+id/male"
-        android:layout_width="113dp"
-        android:layout_height="41dp"
+        android:layout_width="129dp"
+        android:layout_height="51dp"
         android:layout_marginTop="24dp"
+        android:background="@color/colorPrimary"
         android:text="@string/male"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -65,6 +66,7 @@
         android:layout_width="124dp"
         android:layout_height="46dp"
         android:layout_marginTop="24dp"
+        android:background="@color/colorPrimary"
         android:text="@string/female"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"

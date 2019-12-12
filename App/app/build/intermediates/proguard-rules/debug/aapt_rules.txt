@@ -6,12 +6,12 @@
 -keep class com.tiefensuche.motionmate.service.OnBootReceiver { <init>(); }
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:42
 -keep class com.tiefensuche.motionmate.ui.MainActivity { <init>(); }
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:32
+-keep class com.tiefensuche.motionmate.ui.cards.LoginOne { <init>(); }
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:35
 -keep class com.tiefensuche.motionmate.ui.cards.StartingActivity { <init>(); }
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:34
 -keep class com.tiefensuche.motionmate.ui.cards.firstPage { <init>(); }
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:32
--keep class com.tiefensuche.motionmate.ui.cards.loginOne { <init>(); }
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:31
 -keep class com.tiefensuche.motionmate.ui.cards.registrationPage { <init>(); }
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:33
@@ -23,116 +23,116 @@
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_first_page.xml:2
 -keep class android.support.constraint.ConstraintLayout { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/res/layout/design_bottom_navigation_item.xml:27
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/design_bottom_navigation_item.xml:27
 -keep class android.support.design.internal.BaselineLayout { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/res/layout/design_navigation_item.xml:17
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/design_navigation_item.xml:17
 -keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/res/layout/design_navigation_menu.xml:17
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/design_navigation_menu.xml:17
 -keep class android.support.design.internal.NavigationMenuView { <init>(...); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_main.xml:14
 -keep class android.support.design.widget.AppBarLayout { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/res/layout/design_text_input_password_icon.xml:18
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/design_text_input_password_icon.xml:18
 -keep class android.support.design.widget.CheckableImageButton { <init>(...); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_main.xml:21
 -keep class android.support.design.widget.CollapsingToolbarLayout { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/res/layout/design_bottom_sheet_dialog.xml:26
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/design_bottom_sheet_dialog.xml:26
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_main.xml:6
 -keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_main.xml:65
 -keep class android.support.design.widget.FloatingActionButton { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/res/layout/mtrl_layout_snackbar.xml:18
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/res/layout/design_layout_snackbar.xml:18
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/mtrl_layout_snackbar.xml:18
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/design_layout_snackbar.xml:18
 -keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/res/layout/mtrl_layout_snackbar_include.xml:18
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/b304dd9142919f62ea40b6bb6ede30bb/design-28.0.0/res/layout/design_layout_snackbar_include.xml:18
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/mtrl_layout_snackbar_include.xml:18
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/design_layout_snackbar_include.xml:18
 -keep class android.support.design.widget.SnackbarContentLayout { <init>(...); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/content_main.xml:6
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_material.xml:41
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_material.xml:41
 -keep class android.support.v4.widget.NestedScrollView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_select_dialog_material.xml:23
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_select_dialog_material.xml:23
 -keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_action_menu_item_layout.xml:17
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_action_menu_item_layout.xml:17
 -keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_expanded_menu_layout.xml:17
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_expanded_menu_layout.xml:17
 -keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_popup_menu_item_layout.xml:17
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_list_menu_item_layout.xml:17
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_cascading_menu_item_layout.xml:20
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_cascading_menu_item_layout.xml:20
 -keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_screen_toolbar.xml:27
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_screen_toolbar.xml:27
 -keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_screen_toolbar.xml:43
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_action_mode_bar.xml:19
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_action_mode_bar.xml:19
 -keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_screen_toolbar.xml:17
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_screen_toolbar.xml:17
 -keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_action_menu_layout.xml:17
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_action_menu_layout.xml:17
 -keep class android.support.v7.widget.ActionMenuView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_activity_chooser_view.xml:19
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_activity_chooser_view.xml:19
 -keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_material.xml:18
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_material.xml:18
 -keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_button_bar_material.xml:26
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_button_bar_material.xml:26
 -keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/content_main.xml:22
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/cardview_text.xml:6
 -keep class android.support.v7.widget.CardView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_screen_content_include.xml:19
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_screen_content_include.xml:19
 -keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_title_material.xml:45
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_title_material.xml:45
 -keep class android.support.v7.widget.DialogTitle { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml:23
 -keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_screen_simple.xml:17
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_dialog_title_material.xml:22
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_screen_simple.xml:17
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_dialog_title_material.xml:22
 -keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/content_main.xml:89
 -keep class android.support.v7.widget.RecyclerView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_search_view.xml:75
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_search_view.xml:75
 -keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_main.xml:28
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_screen_toolbar.xml:36
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_screen_toolbar.xml:36
 -keep class android.support.v7.widget.Toolbar { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml:32
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_screen_simple.xml:25
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_screen_simple.xml:25
 -keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/content_main.xml:50
 -keep class android.widget.CalendarView { <init>(...); }
 
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_title_material.xml:56
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_material.xml:52
-# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/d1f329891dddda63ef6cfe5d990d87cd/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_button_bar_material.xml:43
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_title_material.xml:56
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_alert_dialog_button_bar_material.xml:43
 -keep class android.widget.Space { <init>(...); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/content_main.xml:79
@@ -150,7 +150,7 @@
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_second_page.xml:45
 -keepclassmembers class * { *** nextbuttonofThirdClicked(android.view.View); }
 
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml:124
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml:126
 -keepclassmembers class * { *** nextmapbtnClicked(android.view.View); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_login_one.xml:87

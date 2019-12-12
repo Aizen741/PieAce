@@ -35,7 +35,7 @@
 22        android:allowBackup="true"
 22-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:17:9-35
 23        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-23-->[com.android.support:support-compat:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/e7310b10cc2fb9baef9b1b7b0018c8c4/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+23-->[com.android.support:support-compat:28.0.0] /home/aizen741/.gradle/caches/transforms-2/files-2.1/73fb82cefbfefc160c122bde10e3aad5/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 24        android:debuggable="true"
 25        android:fullBackupContent="@xml/backup_descriptor"
 25-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:18:9-59
@@ -51,7 +51,7 @@
 31        <activity android:name="com.tiefensuche.motionmate.ui.cards.registrationPage" />
 31-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:24:9-72
 31-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:24:19-60
-32        <activity android:name="com.tiefensuche.motionmate.ui.cards.loginOne" />
+32        <activity android:name="com.tiefensuche.motionmate.ui.cards.LoginOne" />
 32-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:25:9-55
 32-->/home/aizen741/Desktop/PieAce/App/app/src/main/AndroidManifest.xml:25:19-52
 33        <activity android:name="com.tiefensuche.motionmate.ui.cards.secondPage" />
