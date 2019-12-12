@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/73fb82cefbfefc160c122bde10e3aad5/support-compat-28.0.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
@@ -44,12 +44,12 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/drawable-v21/design_password_eye.xml"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/73fb82cefbfefc160c122bde10e3aad5/support-compat-28.0.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
@@ -60,24 +60,24 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi_twenty.jpg.flat",
         "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/drawable-xhdpi/twenty.jpg"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat",
         "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/drawable-xhdpi/logo.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color_mtrl_tabs_colored_ripple_color.xml.flat",
@@ -92,12 +92,12 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -108,12 +108,12 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -144,12 +144,12 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_activity_login_one.xml.flat",
-        "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_login_one.xml"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_activity_login_one.xml.flat",
+        "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_login_one.xml"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -172,12 +172,12 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar_include.xml.flat",
@@ -192,12 +192,12 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/73fb82cefbfefc160c122bde10e3aad5/support-compat-28.0.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/anim_design_bottom_sheet_slide_out.xml.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
@@ -212,32 +212,32 @@
         "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_activity_registration.xml.flat",
-        "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml"
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_activity_registration.xml.flat",
+        "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_registration.xml"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color-v23/abc_tint_edittext.xml"
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -264,12 +264,12 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility.xml.flat",
@@ -316,16 +316,16 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/content_main.xml"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
-        "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/content_main.xml"
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
@@ -392,12 +392,12 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
-        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color/abc_primary_text_material_light.xml"
-    },
-    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/edb33d5410663045a3ba0c4a8dbf6578/design-28.0.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/color/abc_primary_text_material_light.xml"
     },
     {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
