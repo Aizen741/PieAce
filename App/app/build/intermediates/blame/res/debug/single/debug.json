@@ -724,6 +724,10 @@
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/drawable-xhdpi_runnnnnn.jpg.flat",
+        "source": "/home/aizen741/Desktop/PieAce/App/app/src/main/res/drawable-xhdpi/runnnnnn.jpg"
+    },
+    {
         "merged": "/home/aizen741/Desktop/PieAce/App/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
         "source": "/home/aizen741/.gradle/caches/transforms-2/files-2.1/172f7ecf4cc69ad09acf3058d5ef3f3b/appcompat-v7-28.0.0/res/layout/abc_action_menu_item_layout.xml"
     },

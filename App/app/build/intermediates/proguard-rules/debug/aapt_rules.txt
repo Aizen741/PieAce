@@ -144,7 +144,7 @@
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_login_one.xml:68
 -keepclassmembers class * { *** loginBtnClicked(android.view.View); }
 
-# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_first_page.xml:50
+# Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_first_page.xml:54
 -keepclassmembers class * { *** nextBtnClicked(android.view.View); }
 
 # Referenced at /home/aizen741/Desktop/PieAce/App/app/src/main/res/layout/activity_second_page.xml:51
